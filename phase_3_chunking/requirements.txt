@@ -1,0 +1,6 @@
+tiktoken
+sentence-transformers
+pypdf
+pytesseract
+pdf2image
+Pillow
