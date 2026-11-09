@@ -1,0 +1,4 @@
+College Attendance Rules
+
+Students must maintain at least 75% attendance.
+Students must carry their college ID card.

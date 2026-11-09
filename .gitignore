@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Databases and testing
+*.db
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Generated vector database
+phase_5_vector_database/outputs/
+
+# Generated OCR files
+shared_data/ocr_output/
